@@ -1,4 +1,4 @@
-Esse é o repositório com as questões resolvidas do teste tecnico:
+Esse é o repositório com as questões resolvidas do teste técnico:
 
 ---
 
